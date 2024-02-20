@@ -1,0 +1,72 @@
+
+.navigation {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #d1a8a8;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    transition: background-color 0.3s;
+  }
+  
+  .navigation ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navigation li {
+    display: inline-block;
+    margin: 0 50px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #805f38;
+  }
+  
+  .navigation li:hover {
+    text-decoration: underline;
+  }
+
+.dog{
+  margin-top: 4%;
+  margin-left: 60%;
+  width: 30%;
+}
+.pp{
+margin-top: -22%;
+margin-left: 30% ;
+font-size: 3em;
+font-family: cursive;
+color: rgb(96, 74, 46);
+
+}
+.ppp{
+  margin-top: 0%;
+  margin-left: 28% ;
+  font-size: 3em;
+  font-family: cursive;
+  color: rgb(96, 74, 46);
+
+  
+  }
+  .p{
+    color: #d1a8a8;
+  }
+ .but{
+  margin-left: 25%;
+  margin-top: 2%;
+  background-color: #d1a8a8;
+ }
+ .butt{
+  margin-top: 2%;
+ }
+ .butt:hover {
+  background-color: #e6c4c4; /* Change the background color on hover */
+  color: rgb(96, 74, 46); /* Change the text color on hover */
+}
+
+.but:hover {
+  background-color: #805f38; /* Change the background color on hover */
+  color: #ffffff; /* Change the text color on hover */
+}

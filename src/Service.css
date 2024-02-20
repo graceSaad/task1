@@ -1,0 +1,25 @@
+@import url('https://fonts.google.com/specimen/Shadows+Into+Light');
+.m{
+    margin-left: 40%;
+    margin-top: 7%;
+    font-weight: bolder;
+    font-size: 2rem;
+    color: #37230a;
+    font-family: 'Shadows Into Light';
+}
+.service-btn {
+    margin-top: 19%;
+    background-color: #fcc1ddb6 !important;
+        color: rgb(80, 70, 52) !important;
+    font-size: 1.5em;
+    font-family: fantasy !important;
+    font-weight:lighter !important;
+    width: 100%;
+    transition: transform 0.3s;
+    border: none !important;
+}
+
+.service-btn:hover {
+    transform: scale(1.1); 
+    background-color: #eaa4c7;
+}
